@@ -1,0 +1,23 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Typescript Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berickson1/Playground.git"
+  },
+  "author": "Brent Erickson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berickson1/Playground/issues"
+  },
+  "homepage": "https://github.com/berickson1/Playground#readme",
+  "dependencies": {
+    "typescript": "^2.1.1"
+  }
+}
