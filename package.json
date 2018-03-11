@@ -19,6 +19,6 @@
   "homepage": "https://github.com/berickson1/Playground#readme",
   "dependencies": {
     "tsutils": "1.6.0",
-    "typescript": "^2.7.0-dev.20171230"
+    "typescript": "^2.8.0-dev.20180308"
   }
 }
