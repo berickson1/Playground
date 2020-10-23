@@ -277,7 +277,7 @@ tsutils@1.6.0:
   resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-1.6.0.tgz#1fd7fac2a61369ed99cd3997f0fbb437128850f2"
   integrity sha1-H9f6wqYTae2ZzTmX8Pu0NxKIUPI=
 
-typescript@^4.1.0-beta:
-  version "4.1.0-dev.20201014"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.0-dev.20201014.tgz#5d6bd8cf2eccd94c1b4e8248dbe0b7bfe6feb88c"
-  integrity sha512-bhKqBI1UwqB+aP6Y3M6yFEgommPn8+BofXQGTcfmlC+RdTfCY1SQVjwl8bIlqbGcMLmap2ncmD3JWCyHEoiSOg==
+typescript@^4.1.0-dev.20201023:
+  version "4.1.0-dev.20201023"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.0-dev.20201023.tgz#f08b7a847993ce7650e9057fdbf50614c30ad5d1"
+  integrity sha512-jjUBsuzdCd7KLiFlRcxRsJ6bR2HI7fs2mIgcN7DsHhc3RME3u+FcTcYyNdAmFTqndDYiee6eRIaH7GAtGTixow==
